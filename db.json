@@ -1,0 +1,26 @@
+[
+    {
+        "nivel": "Inicial",
+        "porcentaje_comun": 52.19,
+        "porcentaje_especial": 47.81,
+        "total_estudiantes": 40186
+    },
+    {
+        "nivel": "Medio",
+        "porcentaje_comun": 49.68,
+        "porcentaje_especial": 50.32,
+        "total_estudiantes": 75503
+    },
+    {
+        "nivel": "Primario",
+        "porcentaje_comun": 61.4,
+        "porcentaje_especial": 38.6,
+        "total_estudiantes": 130217
+    },
+    {
+        "nivel": "Total",
+        "porcentaje_comun": 56.3,
+        "porcentaje_especial": 43.7,
+        "total_estudiantes": 245906
+    }
+]
